@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><mask id="a"><circle cx="256" cy="256" r="256" fill="#fff"/></mask><g mask="url(#a)"><path fill="#333" d="M0 .4h512l-34 229H36z"/><path fill="#ffda44" d="M367.3 205.3l-109.7 19.4-112.9-19.4 45.5-21.3-24.2-44 49.3 9.4 6.3-49.9 34.4 36.7 34.4-36.6 6.3 50L346 140l-24.2 44z"/><path fill="#0052b4" d="M25.6 205.3h466.8L257 439.5z"/><path fill="#eee" d="M34 307.4h446L256 511.6z"/><path fill="#a2001d" d="M0 511.6l256 .4L0 .4zm256 .4l256-.4V0z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FBFBFB;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#212123;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#F1CD3F;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#457ABA;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#CF3441;}
+</style>
+<g>
+	<defs>
+		
+			<ellipse id="SVGID_1_" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -106.0386 255.9999)" cx="256" cy="256" rx="256" ry="256"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect x="-76.2" y="69" class="st1" width="664.5" height="443"/>
+		<rect x="-76.2" y="-8.7" class="st2" width="664.5" height="251"/>
+		<polygon class="st3" points="326.8,228.3 389.5,187.1 316.1,202.2 358.1,140.2 296.1,182.3 311.3,108.9 270.1,171.5 256,97.9 
+			241.9,171.5 200.7,108.9 215.9,182.3 153.9,140.2 195.9,202.2 122.5,187.1 185.2,228.3 111.5,242.4 256,270 400.5,242.4 		"/>
+		<rect x="-76.2" y="242.4" class="st4" width="664.5" height="96.3"/>
+		<polygon class="st5" points="-76.2,69 -76.2,512 588.2,512 588.2,69 256,512 		"/>
+	</g>
+</g>
+</svg>
